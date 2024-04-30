@@ -31,8 +31,8 @@ Currently, I'm studying Node.js in order to not only structure a backend environ
 ## 📊 Github Status
 
 <div align="center" width="100%" >
-    <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=angelogbiel&show_icons=true&theme=tokyonight"/>
-    <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelogbiel&layout=compact&theme=tokyonight"/>
+    <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=ahbiels&show_icons=true&theme=tokyonight"/>
+    <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahbiels&layout=compact&theme=tokyonight"/>
 </div>
 
 
